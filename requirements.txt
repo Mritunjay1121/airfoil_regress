@@ -1,13 +1,9 @@
-flask
-flask-cors
-numpy
-pandas
+Flask
 gunicorn
 Jinja2
 Werkzeug
 numpy
 pandas
+scipy
 scikit-learn
 matplotlib
-scipy
-pickle
